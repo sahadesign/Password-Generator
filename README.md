@@ -9,7 +9,7 @@ Today I just made my own password generator which works based on the preset leng
 This can be used to generate a series of strings as required.
 
 While doing this project the thing I found the most challenging was building the UI.
-I has a minimal look that matches with the tone of the application 
+It has a minimal look that matches with the tone of the application.
 It is not responsive yet.
 
 Password Generator done.
