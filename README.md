@@ -10,7 +10,7 @@ This can be used to generate a series of strings as required.
 
 While doing this project the thing I found the most challenging was building the UI.
 It has a minimal look that matches with the tone of the application.
-It is not responsive yet.
+Will be adding more features soon.
 
 Password Generator done.
 More to come!🤞
